@@ -1,23 +1,42 @@
 # hocviencnttgittutorial
 ========================================================================
+
 	     Exercise
+	     
 ========================================================================
+
 A va B la 2 developer lam viec tren 1 git repository https://github.com/levunguyen/hocviencnttgittutorial
+
 Product gom co 3 chuc nang register,login,va profile
+
 A pull code tu git ve thu muc developer A
+
 	 git clone https://github.com/levunguyen/hocviencnttgittutorial
+	 
 A tao branch register
+
 	git checkout –b register
+	
 A switch qua branch register
+
 A viet code va commit 2 files : register.html va register.java len branch register
+
 	git commit -m “register”
+	
 A push branch register len  git
+
 	git push origin register
+	
 B pull code tu git ve thu muc developer B
+
 	 git clone https://github.com/levunguyen/hocviencnttgittutorial
+	 
 B tao branch login
+
 	git checkout –b login
+	
 B switch qua branch login
+
 B viet code 2 files : login.html va login.java len branch login
 	git commit -m “login”
 B push branch login len git
